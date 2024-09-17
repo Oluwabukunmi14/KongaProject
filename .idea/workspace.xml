@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f4f34f3-9727-4836-a81a-01169e3c69d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/orderingflowkonga.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2lscZtGi5lX3YIXSjUGQZM5tM46" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/USER/IdeaProjects/KONGA_PROJECT/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.orderingflowkonga.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.orderingflowkonga.negativelogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.orderingflowkonga.positivelogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.orderingflowkonga.positivelogin2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.orderingflowkonga.start.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/IdeaProjects/KONGA_PROJECT/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/USER/IdeaProjects/KONGA_PROJECT/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\KONGA_PROJECT\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.orderingflowkonga">
+    <configuration name="orderingflowkonga" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KONGA_PROJECT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="orderingflowkonga" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderingflowkonga.negativelogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KONGA_PROJECT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="orderingflowkonga" />
+      <option name="METHOD_NAME" value="negativelogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderingflowkonga.positivelogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KONGA_PROJECT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="orderingflowkonga" />
+      <option name="METHOD_NAME" value="positivelogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderingflowkonga.positivelogin2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KONGA_PROJECT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="orderingflowkonga" />
+      <option name="METHOD_NAME" value="positivelogin2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderingflowkonga.start" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KONGA_PROJECT" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="orderingflowkonga" />
+      <option name="METHOD_NAME" value="start" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.orderingflowkonga" />
+        <item itemvalue="TestNG.orderingflowkonga.negativelogin" />
+        <item itemvalue="TestNG.orderingflowkonga.start" />
+        <item itemvalue="TestNG.orderingflowkonga.positivelogin2" />
+        <item itemvalue="TestNG.orderingflowkonga.positivelogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f4f34f3-9727-4836-a81a-01169e3c69d0" name="Changes" comment="" />
+      <created>1725972285479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725972285479</updated>
+      <workItem from="1725972286597" duration="4000" />
+      <workItem from="1726049980956" duration="8026000" />
+      <workItem from="1726076678236" duration="9814000" />
+      <workItem from="1726140245242" duration="2998000" />
+      <workItem from="1726143326697" duration="4098000" />
+      <workItem from="1726165088943" duration="3815000" />
+      <workItem from="1726169074017" duration="301000" />
+      <workItem from="1726221219379" duration="11081000" />
+      <workItem from="1726252002783" duration="2774000" />
+      <workItem from="1726316657983" duration="5787000" />
+      <workItem from="1726431922800" duration="1978000" />
+      <workItem from="1726502822814" duration="11660000" />
+      <workItem from="1726519687495" duration="8485000" />
+      <workItem from="1726571715635" duration="8927000" />
+      <workItem from="1726588322106" duration="4470000" />
+      <workItem from="1726592874960" duration="3419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
